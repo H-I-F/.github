@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/H-I-F/.github/main/profile/assets/hif-logo-256.jpg" alt="H.I.F Sigil" width="160" />
+
 # H.I.F
 
 ### HACK · IDEAL · FRONT
